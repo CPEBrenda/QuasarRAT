@@ -208,7 +208,13 @@ FakesAssemblies/
 *.opt
 <<<<<<< HEAD
 >>>>>>> CPEBrenda-patch-1/my-new-feature
+<<<<<<< HEAD
 /.vscode/.github/workflows/
 =======
 submodules/
 >>>>>>> cda4206a605a3ebf03359f2c5d33df94a4933e21
+=======
+=======
+submodules/
+>>>>>>> d8b6710871e5d23d489094c91e9a90e596fdae59
+>>>>>>> d6bef5cf257e5c501fc5b4eadcb8453343e8d238
